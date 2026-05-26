@@ -4,9 +4,13 @@ This repository is my space for practicing and improving problem-solving skills 
 While I may not always be consistent with daily attempts, working through these problems still helps me grow as a developer.
 
 ## Folder ordering
+
 Problems are organized in month buckets at the repo root:
+
 - `01-january`
 - `02-february`
+- `03-march`
+- and so on...
 
 Inside each month bucket, each problem is a folder named `DD-problem-title` (for example, `15-add-binary`).
 If multiple problems were completed on the same day, they appear as separate sibling folders sharing the same `DD-` prefix.
